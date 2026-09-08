@@ -1,4 +1,4 @@
-# NSP-Client
+# Network Synced Protocol
 A protocol that allows running OS commands on the web. <br>
 NSP currently supports Windows, macOS and Linux. <br>
 # How to use 
