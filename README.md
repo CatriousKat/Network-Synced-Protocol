@@ -1,6 +1,6 @@
 # NSP-Client
 A protocol that allows running OS commands on the web. <br>
-NSP currently supports Windows, macOS, Linux and Chrome/Firefox-based browsers. <br>
+NSP currently supports Windows, macOS and Linux. <br>
 # How to use 
 1. Run the NSP client
 2. Open the website that requests a NSP action
